@@ -145,9 +145,9 @@ Created calculated columns:
 * Shows **business-focused problem solving**
 * Applies **risk detection concepts in real-world data**
 
----
 
 
-🔗 LinkedIn: https://www.linkedin.com/in/v-subash-raj/
 
----
+
+
+
