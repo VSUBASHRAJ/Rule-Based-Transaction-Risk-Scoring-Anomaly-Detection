@@ -126,7 +126,7 @@ Created calculated columns:
 
 ##  Dashboard Preview
 
-*(Add screenshots here after building your dashboard)*
+![Application Running](https://github.com/VSUBASHRAJ/Rule-Based-Transaction-Risk-Scoring-Anomaly-Detection/blob/main/Rule-Based%20Transaction%20Risk%20Scoring%20%26%20Anomaly%20Detection%20Dashboard.png)
 
 ---
 
